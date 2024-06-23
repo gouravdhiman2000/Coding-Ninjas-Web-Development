@@ -1,0 +1,12 @@
+#container{
+    height: 400px;
+    width: 400px;
+    margin: 40px;
+    border: 2px solid black;
+    /* gradients - linear, reparting and radial */
+    /* background-image: linear-gradient(to top right, red, blue ); */
+    /* percentage indicates the starting value */
+    /* direction can be indicates in degree also */
+    background: radial-gradient(red , cyan, blue);
+
+}
