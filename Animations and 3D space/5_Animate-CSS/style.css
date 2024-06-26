@@ -1,0 +1,15 @@
+.one,.two{
+    height: 200px;
+    width: 200px;
+    margin: 60px;
+    top: 20%;
+    left: 20%;
+}
+
+.one{
+    background-color: aquamarine;
+}
+
+.two{
+    background-color: orange;
+}
